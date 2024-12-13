@@ -56,9 +56,9 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
+    title: "parth sagar's Blog",
     desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    url: "https://parthsagar.dev/blog/",
   },
   {
     id: 2,
@@ -70,7 +70,7 @@ const projects = [
     id: 3,
     title: "Haru API",
     desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    url: "https://parthsagar.github.io/haru-api/",
   },
   {
     id: 4,
